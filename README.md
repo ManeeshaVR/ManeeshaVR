@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vimukthi rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimukthi rajapaksha" height="30" width="40" /></a>
-<a href="https://fb.com/vimukthi rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vimukthi rajapaksha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vimukthi-rajapaksha-b59322251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vimukthi-rajapaksha-b59322251/" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/profile.php?id=100021732406782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100021732406782" height="30" width="40" /></a>
 <a href="https://instagram.com/vim_uk_2805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vim_uk_2805" height="30" width="40" /></a>
 <a href="https://medium.com/@vimu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vimu" height="30" width="40" /></a>
 </p>
