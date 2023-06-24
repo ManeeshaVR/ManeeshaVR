@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vimukthi Rajpaksha</h1>
 <h3 align="center">A full stack developer from Sri Lanka</h3>
 
+<img src="https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg?itok=D8qgVwxb">
+
 - 🌱 I’m currently learning **GDSE**
 
 - 📫 How to reach me **vimukthirajapaksha2805@gmail.com**
