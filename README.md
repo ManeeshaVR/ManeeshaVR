@@ -2,7 +2,7 @@
 <h3 align="center">A full stack developer from Sri Lanka</h3>
 
 
-- 🌱 I’m currently learning **GDSE**
+- 🌱 I’m currently learning as a student
 
 - 📫 How to reach me **vimukthirajapaksha2805@gmail.com**
 
