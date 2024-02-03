@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Vimukthi Rajpaksha</h1>
 <h3 align="center">A full stack developer from Sri Lanka</h3>
 
