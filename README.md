@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Vimukthi Rajpaksha</h1>
 <h3 align="center">A full stack developer from Sri Lanka</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Backend+Developer;Mobile+Appplication+Developer;Software+Engineer)](https://git.io/typing-svg) <br>
+
 - 🌱 I’m currently learning **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://vimukthirajapaksha.000webhostapp.com/](https://vimukthirajapaksha.000webhostapp.com/)
