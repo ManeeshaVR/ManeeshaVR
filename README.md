@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://vimukthirajapaksha.me)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://vimukthirajapaksha.me/My_Portfolio/)
 
 - 📫 How to reach me **vimukthirajapaksha2805@gmail.com**
 
